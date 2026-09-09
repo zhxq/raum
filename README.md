@@ -1,6 +1,6 @@
 # DS-RAID and RAUM
 
-This is the README repository for the paper [https://dl.acm.org/doi/abs/10.1145/3793230.3839383](Revisiting Block-Interface ZNS RAID Systems with Dynamically-Sized RAID (DS-RAID) and Random Accessible Unified Memory (RAUM)).
+This is the README repository for the paper [Revisiting Block-Interface ZNS RAID Systems with Dynamically-Sized RAID (DS-RAID) and Random Accessible Unified Memory (RAUM)](https://dl.acm.org/doi/abs/10.1145/3793230.3839383).
 
 If you have any questions, you can find me at xzhang84@syr.edu. Have fun hacking!
 
